@@ -86,7 +86,7 @@ for _ in tqdm(range(num_samples // bsize)):
                 s = fb.get_score_from_eps(eps, i)
                 x0_hat = fb.get_x0_from_eps(pred, eps, i)
 
-                if i[0] % 100 == 0:
+                if i[0] % 100 == 0 or i[0] == 1:
                     x0_list.append(x0_hat)
             elif opt.loss_type == "sm_exact":
                 s = model(pred, i)
