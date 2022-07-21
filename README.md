@@ -18,4 +18,4 @@ Although the simple generative process surprisingly works well, is this the best
 ## Visualization
 ```bash eval_x0hat.sh```
 ## Dataset
-Image files are required to compute FID during training. For example, you need to extract the image file from the original LSUN dataset.
+Image files are required to compute FID during training.
