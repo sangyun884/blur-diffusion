@@ -1,7 +1,7 @@
 # blur-diffusion
 This is the codebase for our paper Progressive Deblurring of Diffusion Models for Coarse-to-Fine Image Synthesis.
 
-![Teaser image](./images/main.jpg)
+![Teaser image](./images/main_fig.jpg)
 
 > **Progressive Deblurring of Diffusion Models for Coarse-to-Fine Image Synthesis**<br>
 > Sangyun Lee<sup>1</sup>, Hyungjin Chung<sup>2</sup>, Jaehyeon Kim<sup>3</sup>, ‪Jong Chul Ye<sup>2</sup>
